@@ -1,0 +1,946 @@
+{
+    "response": {
+        "meta": {
+            "hits": 77,
+            "time": 59,
+            "offset": 0
+        },
+        "docs": [{
+            "web_url": "http:\/\/www.nytimes.com\/2015\/09\/15\/business\/google-hires-leader-for-self-driving-car.html",
+            "snippet": "The Stanford-educated engineer who worked for Ford and Hyundai will arrive at Google after serving as president of TrueCar, an auto pricing and information website.",
+            "lead_paragraph": "The Stanford-educated engineer who worked for Ford and Hyundai will arrive at Google after serving as president of TrueCar, an auto pricing and information website.",
+            "abstract": null,
+            "print_page": "",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/15\/business\/15GOOGLECAR\/15GOOGLECAR-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/15\/business\/15GOOGLECAR\/15GOOGLECAR-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/15\/business\/15GOOGLECAR\/15GOOGLECAR-articleLarge.jpg",
+                "height": 833,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/15\/business\/15GOOGLECAR\/15GOOGLECAR-articleLarge.jpg",
+                    "xlargeheight": "833"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/15\/business\/15GOOGLECAR\/15GOOGLECAR-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/15\/business\/15GOOGLECAR\/15GOOGLECAR-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Google Hires Leader for Self-Driving Car",
+                "print_headline": "Google Hires Leader for Self-Driving Car"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Google Inc"
+            }, {
+                "rank": "2",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "3",
+                "is_major": "N",
+                "name": "persons",
+                "value": "Krafcik, John"
+            }, {
+                "rank": "4",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Automobiles"
+            }],
+            "pub_date": "2015-09-15T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Business",
+            "section_name": "Business Day",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Conor",
+                    "rank": 1,
+                    "lastname": "DOUGHERTY"
+                }],
+                "original": "By CONOR DOUGHERTY"
+            },
+            "type_of_material": "News",
+            "_id": "55f75c6538f0d866752b582a",
+            "word_count": "410",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/bits.blogs.nytimes.com\/2015\/09\/14\/google-hires-auto-veteran-to-lead-self-driving-car-project\/",
+            "snippet": "Google announced that John Krafcik, an auto industry veteran, would become chief executive of its self-driving car project.",
+            "lead_paragraph": null,
+            "abstract": "Google announced that John Krafcik, an auto industry veteran, would become chief executive of its self-driving car project.",
+            "print_page": null,
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/14\/technology\/14bits-googlecar\/14bits-googlecar-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/14\/technology\/14bits-googlecar\/14bits-googlecar-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/14\/technology\/14bits-googlecar\/14bits-googlecar-articleLarge.jpg",
+                "height": 435,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/14\/technology\/14bits-googlecar\/14bits-googlecar-articleLarge.jpg",
+                    "xlargeheight": "435"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/14\/technology\/14bits-googlecar\/14bits-googlecar-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/14\/technology\/14bits-googlecar\/14bits-googlecar-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Google Hires Auto Veteran to Lead Self-Driving Car Project",
+                "kicker": "Bits",
+                "print_headline": "Google Hires Leader for Self-Driving Car"
+            },
+            "keywords": [{
+                "rank": "1",
+                "name": "persons",
+                "value": "Krafcik, John"
+            }, {
+                "rank": "1",
+                "name": "organizations",
+                "value": "Alphabet Inc"
+            }, {
+                "rank": "2",
+                "name": "organizations",
+                "value": "Google Inc"
+            }, {
+                "rank": "3",
+                "name": "organizations",
+                "value": "TrueCar Inc"
+            }, {
+                "rank": "1",
+                "name": "subject",
+                "value": "Automobiles"
+            }, {
+                "rank": "2",
+                "name": "subject",
+                "value": "Computers and the Internet"
+            }, {
+                "rank": "3",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }],
+            "pub_date": "2015-09-14T02:28:05Z",
+            "document_type": "blogpost",
+            "news_desk": "Business",
+            "section_name": "Technology",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Conor",
+                    "rank": 1,
+                    "lastname": "DOUGHERTY"
+                }],
+                "original": "By CONOR DOUGHERTY"
+            },
+            "type_of_material": "Blog",
+            "_id": "55f6697c38f0d85cacd390aa",
+            "word_count": "425",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/09\/22\/business\/apple-presses-ahead-with-efforts-to-create-car-though-big-issues-remain.html",
+            "snippet": "Apple is still working out whether it will make a self-driving car, an electric car 0r a combination of the two, a person with knowledge of the product said.",
+            "lead_paragraph": "Apple is still working out whether it will make a self-driving car, an electric car 0r a combination of the two, a person with knowledge of the product said.",
+            "abstract": "Apple hopes to introduce car product of some kind, either self-driving, electric or combination of two, by 2020; project is cloaked in secrecy but closely watched by others in software and automobile industries.",
+            "print_page": "4",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/22\/business\/22APPLECARsub\/22APPLECARsub-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/22\/business\/22APPLECARsub\/22APPLECARsub-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/22\/business\/22APPLECARsub\/22APPLECARsub-articleLarge.jpg",
+                "height": 400,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/22\/business\/22APPLECARsub\/22APPLECARsub-articleLarge.jpg",
+                    "xlargeheight": "400"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/22\/business\/22APPLECARsub\/22APPLECARsub-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/22\/business\/22APPLECARsub\/22APPLECARsub-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Apple Presses Ahead With Efforts to Create Car, Though Big Issues Remain",
+                "print_headline": "Apple Presses Ahead With Efforts to Create Car, Though Big Issues Remain"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Apple Inc"
+            }, {
+                "rank": "2",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Automobiles"
+            }, {
+                "rank": "3",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "4",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Electric and Hybrid Vehicles"
+            }],
+            "pub_date": "2015-09-22T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Business",
+            "section_name": "Business Day",
+            "subsection_name": null,
+            "byline": {
+                "contributor": "Brian X. Chen and Mike Isaac contributed reporting.",
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Katie",
+                    "rank": 1,
+                    "lastname": "BENNER"
+                }],
+                "original": "By KATIE BENNER"
+            },
+            "type_of_material": "News",
+            "_id": "5600a7b638f0d813baf6c15b",
+            "word_count": "562",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/learning.blogs.nytimes.com\/2015\/09\/03\/news-qs-googles-driverless-cars-run-into-problem-cars-with-drivers\/",
+            "snippet": "What\u2019s the problem with Google\u2019s driverless cars being programmed to follow the letter of the law?",
+            "lead_paragraph": null,
+            "abstract": "What\u2019s the problem with Google\u2019s driverless cars being programmed to follow the letter of the law?",
+            "print_page": null,
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/02\/business\/02googlecar-web-LN\/02googlecar-web-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/02\/business\/02googlecar-web-LN\/02googlecar-web-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/02\/business\/02googlecar-web-LN\/02googlecar-web-articleLarge.jpg",
+                "height": 400,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/02\/business\/02googlecar-web-LN\/02googlecar-web-articleLarge.jpg",
+                    "xlargeheight": "400"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/02\/business\/02googlecar-web-LN\/02googlecar-web-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/02\/business\/02googlecar-web-LN\/02googlecar-web-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "News Q&#8217;s | Google\u2019s Driverless Cars Run Into Problem: Cars With Drivers",
+                "kicker": "The Learning Network"
+            },
+            "keywords": [{
+                "rank": "1",
+                "name": "organizations",
+                "value": "Google Inc"
+            }, {
+                "rank": "1",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }],
+            "pub_date": "2015-09-03T04:30:51Z",
+            "document_type": "blogpost",
+            "news_desk": null,
+            "section_name": "Education",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Michael",
+                    "rank": 1,
+                    "lastname": "GONCHAR"
+                }],
+                "original": "By MICHAEL GONCHAR"
+            },
+            "type_of_material": "Blog",
+            "_id": "55e8058138f0d80b7eeea74c",
+            "word_count": "302",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/bits.blogs.nytimes.com\/2015\/09\/02\/daily-report-googles-driverless-car-learns-to-navigate-an-imperfect-world\/",
+            "snippet": "Google\u2019s self-driving cars continue to do the right thing in road tests. Unfortunately, the same can\u2019t be said of humans.",
+            "lead_paragraph": null,
+            "abstract": "Google\u2019s self-driving cars continue to do the right thing in road tests. Unfortunately, the same can\u2019t be said of humans.",
+            "print_page": null,
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 600,
+                "url": "images\/2011\/11\/30\/technology\/bits-daily-report\/bits-daily-report-articleLarge.jpg",
+                "height": 400,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2011\/11\/30\/technology\/bits-daily-report\/bits-daily-report-articleLarge.jpg",
+                    "xlargeheight": "400"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2011\/11\/30\/technology\/bits-daily-report\/bits-daily-report-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2011\/11\/30\/technology\/bits-daily-report\/bits-daily-report-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Daily Report: Google&#8217;s Driverless Car Learns to Navigate an Imperfect World",
+                "kicker": "Bits"
+            },
+            "keywords": [{
+                "rank": "1",
+                "name": "organizations",
+                "value": "Google Inc"
+            }, {
+                "rank": "1",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "2",
+                "name": "subject",
+                "value": "Traffic Accidents and Safety"
+            }],
+            "pub_date": "2015-09-02T09:15:24Z",
+            "document_type": "blogpost",
+            "news_desk": "Business",
+            "section_name": "Technology",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Jim",
+                    "rank": 1,
+                    "lastname": "KERSTETTER"
+                }],
+                "original": "By JIM KERSTETTER"
+            },
+            "type_of_material": "Blog",
+            "_id": "55e6f6d238f0d86bbc6507e5",
+            "word_count": "270",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/09\/02\/technology\/personaltech\/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html",
+            "snippet": "The cars have been involved in a smattering of minor accidents because they observe traffic laws to the letter \u2014 and people don\u2019t.",
+            "lead_paragraph": "The cars have been involved in a smattering of minor accidents because they observe traffic laws to the letter \u2014 and people don\u2019t.",
+            "abstract": "Google reports one of its self-driving cars was involved in accident because it followed traffic laws, latest of 16 total crashes cars have been involved in since 2009, all of which were reportedly fault of human drivers; while autonomous vechicles must overcome variety of challenges before they can be used widely, big obstacle is incorporating them into world where humans do not invariably follow rules.",
+            "print_page": "1",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/02\/business\/02googlecar-web\/02googlecar-web-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/02\/business\/02googlecar-web\/02googlecar-web-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/02\/business\/02googlecar-web\/02googlecar-web-articleLarge.jpg",
+                "height": 400,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/02\/business\/02googlecar-web\/02googlecar-web-articleLarge.jpg",
+                    "xlargeheight": "400"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/02\/business\/02googlecar-web\/02googlecar-web-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/02\/business\/02googlecar-web\/02googlecar-web-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Google\u2019s Driverless Cars Run Into Problem: Cars With Drivers",
+                "print_headline": " Driverless Car&#8217;s Nemesis? Drivers"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "2",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Traffic Accidents and Safety"
+            }, {
+                "rank": "3",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Google Inc"
+            }],
+            "pub_date": "2015-09-02T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Business",
+            "section_name": "Technology",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Matt",
+                    "rank": 1,
+                    "lastname": "RICHTEL"
+                }, {
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Conor",
+                    "rank": 2,
+                    "lastname": "DOUGHERTY"
+                }],
+                "original": "By MATT RICHTEL and CONOR DOUGHERTY"
+            },
+            "type_of_material": "News",
+            "_id": "55e5cbb938f0d86bbc6504a7",
+            "word_count": "1261",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/09\/18\/automobiles\/apples-auto-inroads-create-a-buzz-at-frankfurt-motor-show.html",
+            "snippet": "The risk is less that cars from technology giants would destroy Mercedes-Benz or BMW, but rather that carmakers would become mere providers of hardware.",
+            "lead_paragraph": "The risk is less that cars from technology giants would destroy Mercedes-Benz or BMW, but rather that carmakers would become mere providers of hardware.",
+            "abstract": null,
+            "print_page": "4",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/18\/business\/18APPLECARS\/18APPLECARS-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/18\/business\/18APPLECARS\/18APPLECARS-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/18\/business\/18APPLECARS\/18APPLECARS-articleLarge.jpg",
+                "height": 386,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/18\/business\/18APPLECARS\/18APPLECARS-articleLarge.jpg",
+                    "xlargeheight": "386"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/18\/business\/18APPLECARS\/18APPLECARS-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/18\/business\/18APPLECARS\/18APPLECARS-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Apple and Google Create a Buzz at Frankfurt Motor Show",
+                "print_headline": "As Apple and Google Rethink Cars, Automakers Plan Their Defense"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Automobiles"
+            }, {
+                "rank": "11",
+                "is_major": "N",
+                "name": "glocations",
+                "value": "Silicon Valley (Calif)"
+            }, {
+                "rank": "2",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Apple Inc"
+            }, {
+                "rank": "3",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Google Inc"
+            }, {
+                "rank": "4",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "5",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Electric and Hybrid Vehicles"
+            }, {
+                "rank": "6",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Frankfurt Auto Show"
+            }, {
+                "rank": "7",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Daimler AG"
+            }, {
+                "rank": "8",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Volkswagen AG"
+            }, {
+                "rank": "9",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Mercedes-Benz"
+            }, {
+                "rank": "10",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Automobili Lamborghini SpA"
+            }],
+            "pub_date": "2015-09-18T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Business",
+            "section_name": "Automobiles",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Jack",
+                    "rank": 1,
+                    "lastname": "EWING"
+                }],
+                "original": "By JACK EWING"
+            },
+            "type_of_material": "News",
+            "_id": "55fab6dc38f0d816d18469b9",
+            "word_count": "1527",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/08\/29\/technology\/uber-hires-two-engineers-who-showed-cars-could-be-hacked.html",
+            "snippet": "The company\u2019s latest talent grab snared Charlie Miller and Chris Valasek, who recently startled the auto industry by hacking remotely into Fiat and Chrysler vehicles.",
+            "lead_paragraph": "The company\u2019s latest talent grab snared Charlie Miller and Chris Valasek, who recently startled the auto industry by hacking remotely into Fiat and Chrysler vehicles.",
+            "abstract": null,
+            "print_page": "2",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/08\/29\/business\/29UBER\/29UBER-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/08\/29\/business\/29UBER\/29UBER-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/08\/29\/business\/29UBER\/29UBER-articleLarge.jpg",
+                "height": 400,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/08\/29\/business\/29UBER\/29UBER-articleLarge.jpg",
+                    "xlargeheight": "400"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/08\/29\/business\/29UBER\/29UBER-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/08\/29\/business\/29UBER\/29UBER-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Uber Hires Two Engineers Who Showed Cars Could Be Hacked",
+                "print_headline": "Uber Hires Two Engineers Who Showed Car Hackings"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Uber Technologies Inc"
+            }, {
+                "rank": "2",
+                "is_major": "Y",
+                "name": "persons",
+                "value": "Valasek, Chris J (1982- )"
+            }, {
+                "rank": "3",
+                "is_major": "Y",
+                "name": "persons",
+                "value": "Miller, Charles A (1973- )"
+            }, {
+                "rank": "4",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "5",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Computer Security"
+            }, {
+                "rank": "6",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Hiring and Promotion"
+            }, {
+                "rank": "7",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Car Services and Livery Cabs"
+            }],
+            "pub_date": "2015-08-29T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Business",
+            "section_name": "Technology",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Mike",
+                    "rank": 1,
+                    "lastname": "ISAAC"
+                }, {
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Nicole",
+                    "rank": 2,
+                    "lastname": "PERLROTH"
+                }],
+                "original": "By MIKE ISAAC and NICOLE PERLROTH"
+            },
+            "type_of_material": "News",
+            "_id": "55e0da6b38f0d83605e15731",
+            "word_count": "689",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/07\/17\/automobiles\/trying-to-win-the-publics-trust-with-autonomous-cars-at-120-mph.html",
+            "snippet": "Engineering a self-driving car is difficult enough. Now the public has to be convinced that the technology works.",
+            "lead_paragraph": "Engineering a self-driving car is difficult enough. Now the public has to be convinced that the technology works.",
+            "abstract": "Wheels column; automobile makers like Audi are hurrying to put out self-driving cars ahead of their competitors; crucial hurdle technology must pass is gaining consumers' trust that cars are safe.",
+            "print_page": "1",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/07\/17\/business\/17WHEELSjp\/17WHEELSjp-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/07\/17\/business\/17WHEELSjp\/17WHEELSjp-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/07\/17\/business\/17WHEELSjp\/17WHEELSjp-articleLarge.jpg",
+                "height": 400,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/07\/17\/business\/17WHEELSjp\/17WHEELSjp-articleLarge.jpg",
+                    "xlargeheight": "400"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/07\/17\/business\/17WHEELSjp\/17WHEELSjp-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/07\/17\/business\/17WHEELSjp\/17WHEELSjp-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Trying to Win the Public\u2019s Trust With Autonomous Cars, at 120 M.P.H.",
+                "content_kicker": "Wheels",
+                "print_headline": "Selling the Self-Driving Car, at 120 M.P.H. "
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "2",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Audi Division of Volkswagen AG"
+            }, {
+                "rank": "3",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Automobiles"
+            }, {
+                "rank": "4",
+                "is_major": "N",
+                "name": "glocations",
+                "value": "California"
+            }, {
+                "rank": "5",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Google Inc"
+            }, {
+                "rank": "6",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Tesla Motors Inc"
+            }, {
+                "rank": "7",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Cadillac Division of General Motors Corp"
+            }],
+            "pub_date": "2015-07-17T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Business",
+            "section_name": "Automobiles",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Dino",
+                    "rank": 1,
+                    "lastname": "GRANDONI"
+                }],
+                "original": "By DINO GRANDONI"
+            },
+            "type_of_material": "News",
+            "_id": "55a8243c38f0d87d1f9a7d77",
+            "word_count": "1078",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/09\/13\/magazine\/uber-would-like-to-buy-your-robotics-department.html",
+            "snippet": "When the company wanted a team of roboticists, it raided a university lab to get them. Can high-tech academia survive today\u2019s Silicon Valley talent binge?",
+            "lead_paragraph": "When the company wanted a team of roboticists, it raided a university lab to get them. Can high-tech academia survive today\u2019s Silicon Valley talent binge?",
+            "abstract": null,
+            "print_page": "39",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/13\/magazine\/13uber1\/13uber1-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/13\/magazine\/13uber1\/13uber1-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/13\/magazine\/13uber1\/13uber1-articleLarge.jpg",
+                "height": 429,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/13\/magazine\/13uber1\/13uber1-articleLarge.jpg",
+                    "xlargeheight": "429"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/13\/magazine\/13uber1\/13uber1-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/13\/magazine\/13uber1\/13uber1-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Uber Would Like to Buy Your Robotics Department",
+                "content_kicker": "The Education Issue",
+                "kicker": "The Education Issue",
+                "print_headline": "On Demand"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Colleges and Universities"
+            }, {
+                "rank": "2",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Uber Technologies Inc"
+            }, {
+                "rank": "3",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Robots and Robotics"
+            }, {
+                "rank": "4",
+                "is_major": "Y",
+                "name": "subject",
+                "value": "Research"
+            }, {
+                "rank": "5",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Driverless and Semiautonomous Vehicles"
+            }, {
+                "rank": "6",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Engineering and Engineers"
+            }, {
+                "rank": "7",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Inventions and Patents"
+            }, {
+                "rank": "8",
+                "is_major": "Y",
+                "name": "organizations",
+                "value": "Carnegie Mellon University"
+            }],
+            "pub_date": "2015-09-13T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Magazine",
+            "section_name": "Magazine",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Clive",
+                    "rank": 1,
+                    "lastname": "THOMPSON"
+                }],
+                "original": "By CLIVE THOMPSON"
+            },
+            "type_of_material": "News",
+            "_id": "55f2b43f38f0d824d9bc6e78",
+            "word_count": "3034",
+            "slideshow_credits": null
+        }]
+    },
+    "status": "OK",
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

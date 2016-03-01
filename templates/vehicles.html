@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)http://getbootstrap.com/examples/justified-nav/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+    <title>Read the future, today!</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{url_for('static', filename='css/cover.css') }}" rel="stylesheet">
+
+  </head>
+
+
+
+
+
+  <body{% if setTheme == "dark" %} id="body-dark"{% elif setTheme == "orange" %} id="body-orange"{% endif %}>
+
+    <div class="container">
+
+      <!-- The justified navigation menu is meant for single line per list item.
+           Multiple lines will require custom code not provided by Bootstrap. -->
+      <div class="masthead">
+        <nav>
+          <ul class="nav nav-justified">
+            <li class="active"><a id="vehicle-button" href="#">Vehicles</a></li>
+            <li><a id="fusion-button" href="/fusion">Cold Fusion</a></li>
+            <li><a id="home-button" href="/">HOME</a></li>
+            <li><a id="ai-button" href="/ai">AI News</a></li>
+            <li><a id="space-button" href="/space">Space News</a></li>
+          </ul>
+        </nav>
+      </div>
+
+
+
+
+      <!-- Jumbotron -->
+      <div class="jumbotron">
+  	<h1{% if setTheme == "dark" %} id="h1-dark"{% elif setTheme == "orange" %} id="h1-orange"{% endif %}>Self-Driving Vehicle News!</h1>
+        <p class="lead">Analysts predict that self-driving cars will be prominent on our roads within the next decade. Stay on top of new developments here!</p>
+      </div>
+
+
+
+
+      <div class="row">
+          <div id="insert-articles"></div>
+      </div>
+
+     <!-- Site footer -->
+        <footer class="footer{% if setTheme == "dark" %}-dark{% elif setTheme == "orange" %}-orange{% endif %}">
+      	<p>
+	{% if setTheme == "dark" %}<select id="theme-select"><option>dark</option><option>normal</option><option>orange</option></select>
+	{% elif setTheme == "orange" %}<select id="theme-select"><option>orange</option><option>normal</option><option>dark</option></select>
+	{% else %}<select id="theme-select"><option>normal</option><option>dark</option><option>orange</option></select>{% endif %}
+	&nbsp; <a{% if setTheme == "dark" %} class="a-dark"{% elif setTheme == "orange" %} class="a-orange"{% endif %} id="apply-theme" href="#">Apply!</a>
+	</p>
+        <p style="font-weight: 700;">By Eric Leblanc, #0948541, Lab 10</p>
+      </footer>
+
+    </div> <!-- /container -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script>
+	$(document).ready(function() {
+
+		//Display the page's snippets.
+		displaySnippets();
+
+		$("#apply-theme").click(function() {
+			var text = $("#theme-select option:selected").val();
+
+			$.ajax({
+				type: "GET",
+				data: { theme: text },
+				url: "/theme_update",
+				success: function() {
+					location.reload();
+				}
+			});
+		});
+
+	});
+
+
+
+	var displaySnippets = function() {
+		$.ajax({
+			type: "GET",
+			url: "/articles/0/5",
+			success: function(data) {
+				$("#insert-articles").html(data);
+			}
+		});
+	}	
+    </script>
+
+</body></html>

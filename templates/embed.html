@@ -1,0 +1,18 @@
+
+
+	{% if title1 %}
+		<h4 class="embed-title">{{ title1 }}</h1>
+        	<p class="embed-tagline">{{ tagline1 }}</p>
+		<a class="{% if setTheme == "dark" %}a-dark {% elif setTheme == "orange" %}a-orange {% endif %}embed-link" href="{{ url1 }}">Read more...</a>
+	{% endif %}
+	{% if title2 %}
+		<h4 class="embed-title">{{ title1 }}</h1>
+        	<p class="embed-tagline">{{ tagline2 }}</p>
+		<a class="{% if setTheme == "dark" %}a-dark {% elif setTheme == "orange" %}a-orange {% endif %}embed-link" href="{{ url2 }}">Read more...</a>
+	{% endif %}
+	{% if title3 %}
+		<h4 class="embed-title">{{ title1 }}</h1>
+        	<p class="embed-tagline">{{ tagline2 }}</p>
+		<a class="{% if setTheme == "dark" %}a-dark {% elif setTheme == "orange" %}a-orange {% endif %}embed-link" href="{{ url3 }}">Read more...</a>
+	{% endif %}
+

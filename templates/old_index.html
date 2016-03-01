@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)http://getbootstrap.com/examples/cover/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+    <title>Cover Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='css/cover.css') }}" rel="stylesheet">   
+    <link href="{{ url_for('static', filename='css/embed.css') }}" rel="stylesheet">
+
+  </head>
+
+
+
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+	  <img src="http://cdn.theatlantic.com/assets/media/img/posts/2015/01/mercedes_driverless_interior/c7099d29e.png" />
+
+          <div class="inner cover">
+            <p class="lead">
+	    	<h2>Welcome to the best source for driverless car news!</h2>
+		<p id="desc">Our website is secure for use for the following reasons:<br /><br />
+			<ul>
+				<li>All SQL queries involving user input are binded to text values with fixed maximums, so there is no way malicious queries can be inserted through injection or buffer overflow.</li>
+				<li>Cookies are encrypted, so it is hard to engineer a way to maliciously manipulate our backend.</li>
+				<li>The above two sanitisations cover all possible user-modifiable interactions with the server, so no XSS is foreseeable.</li>
+				<li>There are no other non-sanitised HTTP routes possible on the backend. The server also rejects any input for the style other than the two provided (normal and dark).</li>
+				<li>The Flask server is NOT running on debug mode. This allows the Flask server to run with the least amount of privilege attached.</li>
+			</ul>
+		</p>
+		
+		<p style="font-weight: 700;">Results theme: {% if setTheme == "dark" %}<select id="theme-select"><option>dark</option><option>normal</option></select>{% else %}<select id="theme-select"><option>normal</option><option>dark</option></select>{% endif %} &nbsp; <a id="apply-theme" href="#">Apply!</a></p><br />
+		
+		<h5>Enter a search term! (already searching "driverless car"):</h5>
+	      	<input name="text" id="search-field" size="20" maxlength="50" type="text"></input></p>
+		<p>
+	      		<a id="get-results-button" class="btn btn-lg btn-default">Search!</a> &nbsp;&nbsp; 
+		</p>
+		</p>
+			<br />OR<br />
+			view our <a id="get-feat-button" href="#">featured article</a>!
+		</p>
+		<br />
+		<br />
+
+
+
+
+		
+		<div class="modal fade" id="embed-target" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+			<div id="div-insert" class="modal-dialog"></div>
+		</div>
+            </p>
+          </div>
+
+
+
+
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Cover template for <a href="http://linkedin.com/">Eric Leblanc</a>, Student #0948541, Lab 4</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/button.js') }}"></script> 
+</body></html>
